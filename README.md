@@ -24,9 +24,11 @@
 
 <br/>
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h2 align="center"> 📱 Connect with me:</h2>
+<br/>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinayak-hiwase-467646219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinayak-hiwase-467646219/" height="30" width="40" /></a>
+<a href="https://vicky160898.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tarunksao" height="40" width="50" /></a>
 </p>
 <hr>
 <h3 align="left">Teck Stack</h3>
