@@ -47,3 +47,6 @@
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky160898&" alt="vicky160898" /></p>
 <a href="https://github.com/vicky160898/github-readme-activity-graph"><img alt="vicky's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vicky160898&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br />
+<img src='https://visitor-badge.glitch.me/badge?page_id=page.id' alt='visitor-badge' />
