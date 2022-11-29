@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky160898&label=Profile%20views&color=0e75b6&style=flat" alt="vicky160898" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicky160898" alt="vicky160898" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicky160898" alt="vicky160898" /></a> </p>
 <img width="400" height="300" align="right"  src="https://camo.githubusercontent.com/8de2b97c3fffd143096c40537845b307bca30459a4c069523ba17516e42d3a91/68747470733a2f2f746f70646576732e6f72672f696d616765732f736974652f73657276696365732f7765626465762f6865726f2d62672e737667" alt="img" />
 - 🌱 I’m currently learning **Full Stack Web Development**
 
