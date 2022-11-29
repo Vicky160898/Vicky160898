@@ -41,7 +41,7 @@
 <h2 align="left"> 📊 My Github Stats:</h2>
 <br/>
 <br/>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vicky160898&&&theme=tokyonight" alt="vicky160898" backgroundColor="#20232A" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vicky160898&&theme=react&hide_border=true&bg_color=0D1117" alt="vicky160898" backgroundColor="#20232A" /></p>
 
 <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vicky160898&&&theme=tokyonight" alt="vicky160898" /></p>
 
