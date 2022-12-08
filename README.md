@@ -29,7 +29,7 @@
 <h2 align="left"> 📱 Connect with me:</h2>
 <br/>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinayak-hiwase-467646219/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://camo.githubusercontent.com/45bffe94294c82bbe5124409c954985a39da09f8a2bfd14e7b77bac5dfcaf0d9/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763526e52716772524c4d30667477646a652d4773714a41417964724170315942613933504126757371703d43415522)" alt="https://www.linkedin.com/in/vinayak-hiwase-467646219/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinayak-hiwase-467646219/" target="blank"><img align="center" src="https://camo.githubusercontent.com/45bffe94294c82bbe5124409c954985a39da09f8a2bfd14e7b77bac5dfcaf0d9/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763526e52716772524c4d30667477646a652d4773714a41417964724170315942613933504126757371703d43415522" alt="https://www.linkedin.com/in/vinayak-hiwase-467646219/" height="30" width="40" /></a>
 <a href="https://vicky160898.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vinayak" height="40" width="50" /></a>
 </p>
 <hr>
