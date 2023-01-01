@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **vinayakhiwse8@gmail.com**
 
-- 📄 Know about me [My Resume]([https://drive.google.com/file/d/1gWqn07hapiwnZ2SauNuWKqYE8Y6_yYGZ/view?usp=sharing](https://1drv.ms/b/s!AkEcB-CwBclja_ywLWKJZQ-_NXI?e=MJQD6f))
+- 📄 Know about me [My Resume](https://1drv.ms/b/s!AkEcB-CwBclja_ywLWKJZQ-_NXI?e=MJQD6f)
 
 <br/>
 <br/>
