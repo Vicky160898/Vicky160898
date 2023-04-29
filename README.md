@@ -56,7 +56,7 @@
 <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vicky160898&&&theme=tokyonight" alt="vicky160898" /></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky160898&&&theme=tokyonight" alt="vicky160898" /></p>
-<a href="https://github.com/vicky160898/github-readme-activity-graph&theme=vision-friendly-dark"><img alt="vicky's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vicky160898&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="htps://github.com/vicky160898/github-readme-activity-graph&theme=vision-friendly-dark"><img alt="vicky's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vicky160898&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
