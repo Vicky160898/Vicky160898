@@ -26,12 +26,6 @@
 <br/>
 <br/>
 <br/>
-<h2 align="left"> 📱 Connect with me:</h2>
-<br/>
-<p align="left">
-<a href="https://linkedin.com/in/vinayak-hiwse-467646219/" target="blank"><img align="center" src="https://camo.githubusercontent.com/45bffe94294c82bbe5124409c954985a39da09f8a2bfd14e7b77bac5dfcaf0d9/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763526e52716772524c4d30667477646a652d4773714a41417964724170315942613933504126757371703d43415522" alt="https://www.linkedin.com/in/vinayak-hiwase-467646219/" height="30" width="40" /></a>
-<a href="https://vicky160898.github.io/" target="blank"><img align="center" src="https://camo.githubusercontent.com/62bb1bc98b4e83c21d0cfffd064948ed71bb7c34764a28f824f07c45773f6012/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476354354d345451436c724d4f335f4c743538784b79475a5773666d6d53336c682d3235756726757371703d434155" alt="vinayak" height="30" width="40" /></a>
-</p>
 <hr>
 <h2 align="left" margit-top='20px'> 💻 Languages and Tools:</h2>
 <br/>
@@ -45,9 +39,6 @@
 <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vicky160898&&&theme=tokyonight" alt="vicky160898" /></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky160898&&&theme=tokyonight" alt="vicky160898" /></p>
-<a href="https://github.com/vicky160898/github-readme-activity-graph&theme=vision-friendly-dark"><img alt="vicky's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vicky160898&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
-<br/>
-<img src='https://visitor-badge.glitch.me/badge?page_id=page.id' alt='visitor-badge' />
+
+
