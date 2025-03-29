@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [My-Portfolio](https://vicky160898.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript & React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React Redux, Node, Express , MongoDB & MYSQL**
 
 - 📫 How to reach me **vinayakhiwse8@gmail.com**
 
@@ -24,12 +24,7 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-<hr>
-<h2 align="left" margit-top='20px'> 💻 Languages and Tools:</h2>
-<br/>
-<br/>
+
 <hr>
 <h2 align="left"> 📊 My Github Stats:</h2>
 <br/>
